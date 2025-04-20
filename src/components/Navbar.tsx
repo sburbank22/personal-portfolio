@@ -12,7 +12,7 @@ const Navbar = () => {
           { to: "/about", label: "About" },
           { to: "/projects", label: "Projects" },
           { to: "/contact", label: "Contact" },
-        ].map(({ to, label }, index) => (
+        ].map(({ to, label }) => (
           <li key={label} className="px-5 first:pl-0 last:pr-0">
             <Link
               to={to}
