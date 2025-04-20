@@ -3,8 +3,7 @@
 This is my personal portfolio built with React, Vite, TypeScript, and Tailwind CSS. It features a clean, nature-inspired design and includes sections for my About, Projects, and Contact info.
 
 ## Live Demo
-[View Portfolio Live](Deployment
-personal-portfolio-final-d4i0hg4xc-stephanie-bs-projects.vercel.app)
+[View Portfolio Live](https://personal-portfolio-final-inky.vercel.app)
 
 ##  Tech Stack
 - React
